@@ -55,8 +55,6 @@ If you are more aware about the key/tonality you can switch between sharps and f
 
 <img src="readMeImages\11.png"></img>
 
-Gif that demonstrates real time chord and key recognition
-
 ## _The downsides of the project_
 - Determines one chord at a time
 - Does not determine "wide" chords
